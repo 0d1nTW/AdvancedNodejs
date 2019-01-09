@@ -3,6 +3,9 @@ Advanced node js course pluralsight
 
 https://app.pluralsight.com/library/courses/nodejs-advanced/table-of-contents 
 
+this is my practise ... real course samples can be found here : 
+https://github.com/jscomplete/advanced-nodejs 
+
 
 # 3 git commands necessary
 
